@@ -16,7 +16,10 @@ public class ProgramaAGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Bienvenidos a GIT HUB");
+        System.out.println("Bienvenidos a ");
+        System.out.println("GIT HUB");
+        System.out.println(" Alumnos!");
+        
     }
     
 }
